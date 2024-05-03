@@ -10,3 +10,4 @@ NJS:
    2. Code execution phase
    3. Call stack to store the order of executions of execution contexts
       1. It has various names like runtime stack, program stack, machine stack, control stack
+4. Hoisting
